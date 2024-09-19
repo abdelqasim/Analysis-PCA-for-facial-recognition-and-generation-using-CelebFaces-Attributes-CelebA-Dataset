@@ -28,7 +28,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/pca-face-recognition.git
+git clone https:(https://github.com/abdelqasim/Analysis-PCA-for-facial-recognition-and-generation-using-CelebFaces-Attributes-CelebA-Dataset)
 Install the required dependencies:
 bash
 Copy code
@@ -54,10 +54,6 @@ pandas
 scikit-learn
 matplotlib
 OpenCV (optional, for image processing)
-License
 
-This project is licensed under the MIT License.
-Acknowledgments
-
-Dataset: CelebA
+Dataset: CelebA -https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 PCA implementation: scikit-learn
